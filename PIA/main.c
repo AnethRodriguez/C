@@ -21,7 +21,7 @@ int BMI = 70;
 void QuestionsUser(){ //here i made a different function for each stage, this one is to take the data from the user.
     printf ("...................................................................................\n");
     printf ("...................................................................................\n");
-    printf (".. Please answer the following questions honestly and as is shown on the example ..\n");
+    printf (".. Please answer the following questions honestly as is shown on the example ..\n");
     printf ("..                                                                               ..\n");
     printf (".. Example:                                                                      ..\n");
     printf ("..  1. What is your weight in kg?                                                ..\n");
@@ -152,7 +152,7 @@ int goal;//first i introduced the variable goal as an int
   printf(" 16 years old to use it                                         ..\n");
   printf("..                                                              ..\n");
   printf(".. What is your goal?                                           ..\n");//here the program asks for what your goal is.
-  printf(".. 1. Lost weight                                               ..\n");
+  printf(".. 1. Lose weight                                               ..\n");
   printf(".. 2. Gain muscle                                               ..\n");
   printf(".. 3. Maintain                                                  ..\n");
   printf("..................................................................\n");
