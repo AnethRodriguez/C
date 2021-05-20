@@ -30,10 +30,10 @@ https://youtu.be/8rJfRMXwEGQ
 
   - 1: complexity 1 (It isn´t that complicated, but is acceptable)
   - 2: functionality 3 (It has one flaw)
-  - 3: code 2 (made it look presentable)
+  - 3: code 1 (made it look presentable)
   - 4: storage 1 (very limited)
-  - 5: documentation 2 (the video isn't that good)
- CF 9 de 15
+  - 5: documentation 1 (the video isn't that good)
+ CF 7 de 15
 
 
 
