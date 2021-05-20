@@ -24,6 +24,17 @@ Finally you decide haow do you want your plan
 
 ## YOUTUBE VIDEO LINK:
 
+https://youtu.be/Nquf_tuE7AI
+
+### AUTOEVALUATION
+
+1: complexity 1 (no es muy complicado pero tampoco es trivial)
+2: functionability 3 (una sola cosa a veces truena)
+3: code 2  lo limpié lo mas que pude)
+4: storagee 1 (es muy limitado)
+5: documentation 2 (se me fueron unas cosas de ortografía y el video está un poco chafa)
+CF 9 de 15
+
 
 
 CONSULT
