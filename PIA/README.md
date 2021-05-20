@@ -33,7 +33,7 @@ https://youtu.be/8rJfRMXwEGQ
   - 3: code 1 (made it look presentable)
   - 4: storage 1 (very limited)
   - 5: documentation 1 (the video isn't that good)
- CF 7 de 15
+ CF 6 de 15
 
 
 
